@@ -47,3 +47,12 @@
 .margin-top-1 {
     margin-top: 80px;
 }
+
+hr.hr-line {
+    height: 8px;
+    width: 200px;
+    background-color: #537791;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
