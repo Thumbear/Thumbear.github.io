@@ -34,12 +34,16 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.ft-monte {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .jumbotron {
     padding: 2rem 1rem;
     width: 70%;
     margin: auto;
 }
 
-.container-md {
-    width: 70%;
+.margin-top-1 {
+    margin-top: 80px;
 }
