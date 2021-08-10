@@ -1,0 +1,35 @@
+.tx-blue {
+    color: #537791;
+}
+
+.tx-grey {
+    color: #C1C0B9;
+}
+
+.tx-cream {
+    color: #F7F6E7;
+}
+
+.tx-lg-grey {
+    color: #E7E6E1;
+}
+
+.bg-blue {
+    background-color: #537791;
+}
+
+.bg-grey {
+    background-color: #C1C0B9;
+}
+
+.bg-cream {
+    background-color: #F7F6E7;
+}
+
+.bg-lg-grey {
+    background-color: #E7E6E1;
+}
+
+.ft-roboto {
+    font-family: 'Roboto', sans-serif;
+}
